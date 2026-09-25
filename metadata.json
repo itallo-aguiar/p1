@@ -1,0 +1,6 @@
+{
+  "name": "EstudoVag - Preceptor Médico IA",
+  "description": "Preceptor médico especialista em criar questões a partir de PDFs, simulador para ENAMED/Revalida/Residência e tutor clínico interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
